@@ -60,7 +60,7 @@ body {
     height: 64px;
   }
   .face-img {
-  width: 7%;
+  width: 7rem;
   }
  }
 @media (min-width: 700px) {
