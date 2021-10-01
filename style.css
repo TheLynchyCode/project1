@@ -59,6 +59,8 @@ body {
     border: 5px solid rgba(95, 147, 154, 1);
     height: 64px;
   }
+  .face-img {
+  width: 7%;
 }
 @media (min-width: 700px) {
   .wrapper {
